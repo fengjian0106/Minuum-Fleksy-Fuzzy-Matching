@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>893028D5-B46F-45C6-822A-07890465C12F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>classifyWords</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>98F32F9B02248B82027A41DC8EE6194D260D4725</key>
+		<string>https://github.com/fengjian0106/Minuum-Fleksy-Fuzzy-Matching.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS-Version/iOSClassifyWords/classifyWords.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>98F32F9B02248B82027A41DC8EE6194D260D4725</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fengjian0106/Minuum-Fleksy-Fuzzy-Matching.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>98F32F9B02248B82027A41DC8EE6194D260D4725</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98F32F9B02248B82027A41DC8EE6194D260D4725</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Minuum-Fleksy-Fuzzy-Matching</string>
+		</dict>
+	</array>
+</dict>
+</plist>
